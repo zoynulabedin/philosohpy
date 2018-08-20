@@ -1,0 +1,2 @@
+# philosohpy
+philosohpy wordpress theme
